@@ -26,6 +26,11 @@
   margin-bottom: 32px;
 }
 
+.bicicleta-conteudo img {
+  width: 16px;
+  height: auto;
+}
+
 .bicicleta-comprar {
   display: grid;
   grid-template-columns: max-content auto;
